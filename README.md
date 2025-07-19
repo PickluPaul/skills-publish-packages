@@ -11,6 +11,8 @@
 
 _Use GitHub Actions to publish your project to a Docker image._
 
+[![Publish to Docker](https://github.com/PickluPaul/skills-publish-packages/actions/workflows/publish.yml/badge.svg)](https://github.com/PickluPaul/skills-publish-packages/actions/workflows/publish.yml)
+
 </header>
 
 <!--
